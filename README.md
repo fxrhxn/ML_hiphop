@@ -4,4 +4,6 @@
 
 ### Building ML Models w/:  Numpy(hard as fuck) --> Tensorflow(Kinda hard) --> Keras(Amazing)
 
+### [Numpy Github Repo](https://github.com/numpy/numpy)
+### [Tensorflow Github Repo](https://github.com/tensorflow/tensorflow)
 ### [Keras Github Repo](https://github.com/fchollet/keras/)
